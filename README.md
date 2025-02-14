@@ -1,4 +1,4 @@
-# leetcode-2429
+#  Minimize XOR - Medium
 
 Try solving it on [LeetCode](https://leetcode.com/problems/minimize-xor/description/)
 
